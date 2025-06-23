@@ -7,3 +7,5 @@
 ![base](/images/base.jpg)
 ![balakirev](/images/balakirev.png)
 ![egoroff](/images/egoroff_func.png)
+### Stage 3 - Machine Learning (June 2025 - ...)
+![REU base](/images/REU%20base.png)
