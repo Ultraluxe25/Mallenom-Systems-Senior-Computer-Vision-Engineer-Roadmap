@@ -1,6 +1,6 @@
 # Mallenom Systems Senior Computer Vision Engineer Roadmap
 ![main page](/images/Mallenom%20Systems%20main%20page.png)
-## My Path towards Senior CV Engineer with my mentors (Vladislav Konev, )
+## My Path towards Senior CV Engineer with my mentors (Edward Smirnov, Vladislav Konev,)
 ### Stage 1: Python OOP
 ![oop](/images/Python%20OOP.png)
 ### Stage 2: Python Base
