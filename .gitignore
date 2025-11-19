@@ -196,3 +196,6 @@ cython_debug/
 # Qode
 # VS Code AI Extension
 .qodo
+
+# Json files 
+/**/*.json
